@@ -1,0 +1,6 @@
+echo "<pre>";
+print_r($data);
+echo "<pre>";
+
+// Try to access an outside function
+echo echoThis("Hahahah!");
