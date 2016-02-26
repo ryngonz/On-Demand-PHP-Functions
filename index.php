@@ -4,7 +4,6 @@
 	* Creates an on-demand function from the .func files found on the lib directory.
 	* 
 	* Author: Ryan G. Gonzales
-	* License: MIT 
 	*
 	* (Well this is just for fun)
 	*/
